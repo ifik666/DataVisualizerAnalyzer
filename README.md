@@ -1,4 +1,6 @@
 # DataVisualizerAnalyzer
-online visualizer analyzer for data from mobile sensors   
+online visualizer analyzer for data from mobile sensors 
+
+
 
 
